@@ -1,0 +1,13 @@
+[
+
+    {"nom":"Argane", "prenom":"Mohamed", "telephone":"+212 693423633", "email":"mohamed@gmail.com", "password":"mohamed2004", "role":"admin", "img":"Screenshot 2023-12-05 230756.png"},
+    
+    {"nom":"Allaoui", "prenom":"Anass", "telephone":"+212 669547823", "email":"anass@gmail.com", "password":"anass2001", "role":"user", "img":"1a7866b292c057ab38a5f25d3ebefa26d9784840_2000x2000.webp"},
+    {"nom":"Saadaoui", "prenom":"Houda", "telephone":"+212 689541235", "email":"houda@gmail.com", "password":"houda2002", "role":"user", "img":"Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg"},
+    {"nom":"Benani", "prenom":"Mehdi", "telephone":"+212 745821369", "email":"mehdi@gmail.com", "password":"mehdi2005", "role":"user", "img":"98511ee98a1930b8938e42caf0904d2d.jpg"},
+    {"nom":"Hemdaoui", "prenom":"Yassmine", "telephone":"+212 798541236", "email":"yass_min@gmail.com", "password":"yass_2001", "role":"user", "img":"Screenshot 2024-01-25 190002.png"},
+    {"nom":"Choukri", "prenom":"Salma", "telephone":"+212 636251478", "email":"queen@gmail.com", "password":"salma2000", "role":"user", "img":"Screenshot 2024-01-25 190158.png"},
+    {"nom":"Berrada", "prenom":"Yassine", "telephone":"+212 698741256", "email":"yass@gmail.com", "password":"yassine2004", "role":"user", "img":"HD-wallpaper-best-pose-for-profile-for-men-profile-pose-men-best-glasses.jpg"}
+    
+    
+]
